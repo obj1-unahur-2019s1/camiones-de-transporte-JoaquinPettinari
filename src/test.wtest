@@ -1,0 +1,6 @@
+
+test "testX" {
+
+	assert.equals(true)
+
+}
